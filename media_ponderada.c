@@ -28,7 +28,7 @@ int main() {
 pesos = p1 + p2 + p3 + p4 + p5;
 media = (n1 + n2 + n3 + n4 + n5) / pesos;
     
-    printf ("A média ponderada dos números digitados é: %.1f", media);
+    printf ("A média ponderada dos números digitados é: %.1f.", media);
 
     return 0;
 }
