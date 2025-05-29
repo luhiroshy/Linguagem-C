@@ -11,7 +11,7 @@ int main(void) {
     
     soma = n1 + n2;
     
-    printf ("A soma dos números digitados é: %d", soma);
+    printf ("A soma dos números digitados é: %d.", soma);
     
     return 0;
 }
