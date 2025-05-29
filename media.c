@@ -11,7 +11,7 @@ int main(void) {
     
     media = (n1 + n2) / 2.0;
     
-    printf("\nA média dos números digitado é: %.1f", media);
+    printf("\nA média dos números digitado é: %.1f.", media);
     
    return 0;
 }
