@@ -14,7 +14,7 @@ int main() {
         }
     
     for(i = 1;i <= 9;i++) {
-        printf("Insira um número: ");
+        printf("Insira outro número: ");
         scanf("%d", &i);
         if(i % 2 == 0){
             printf("O número %d é par\n\n", i);
